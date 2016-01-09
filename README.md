@@ -1,6 +1,9 @@
 # SVG_animation
 cool svg animation
 
+This repository is build for just for fun and art purpose 
+
+
 
 
 
