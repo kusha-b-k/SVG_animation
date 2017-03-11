@@ -16,3 +16,7 @@ This repository is build for fun and art purpose
 ![alt tag](https://github.com/kusha-b-k/SVG_animation/blob/master/output/dd.gif)
 ![alt tag](https://github.com/kusha-b-k/SVG_animation/blob/master/output/ggs.gif)
 ![alt tag](https://github.com/kusha-b-k/SVG_animation/blob/master/output/kk.gif)
+
+#new animtion files, demo in the below link
+1. https://github.com/kusha-b-k/SVG_animation/blob/master/SVG%20animation/gamil.svg
+
