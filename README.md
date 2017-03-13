@@ -25,3 +25,5 @@ This repository is build for fun and art purpose
 2. https://github.com/kusha-b-k/SVG_animation/blob/master/SVG%20animation/google.svg
 
 3. https://github.com/kusha-b-k/SVG_animation/blob/master/SVG%20animation/modi.svg
+
+4. https://github.com/kusha-b-k/SVG_animation/blob/master/SVG%20animation/apple%20inc.svg
