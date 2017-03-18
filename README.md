@@ -22,4 +22,5 @@ This repository is build for fun and art purpose
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/apple%20inc.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/Target.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/suse.svg)
+ ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/ff84c9b9/SVG%20animation/Loading_anim.svg)
   
