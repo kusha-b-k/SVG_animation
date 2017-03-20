@@ -18,10 +18,11 @@ This repository is build for fun and art purpose
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/6934496b/SVG%20animation/dollar.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/gamil.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/google.svg)
-![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/102915fd/SVG%20animation/tiger_anim.svg)
+ ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/102915fd/SVG%20animation/tiger_anim.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/modi.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/apple%20inc.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/Target.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/suse.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/ff84c9b9/SVG%20animation/Loading_anim.svg)
+ ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/222ec6b0/SVG%20animation/India.svg)
   
