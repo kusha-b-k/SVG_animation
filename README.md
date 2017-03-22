@@ -14,6 +14,7 @@ This repository is build for fun and art purpose
 
 # new animtion
 
+ ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/8bc2add0/SVG%20animation/github.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/8aa10eba/SVG%20animation/apple_watch.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/6934496b/SVG%20animation/dollar.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/gamil.svg)
