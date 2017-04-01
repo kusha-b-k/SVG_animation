@@ -11,9 +11,6 @@ This repository is build for fun and art purpose
 ![alt tag](https://github.com/kusha-b-k/SVG_animation/blob/master/output/dd.gif)
 ![alt tag](https://github.com/kusha-b-k/SVG_animation/blob/master/output/ggs.gif)
 ![alt tag](https://github.com/kusha-b-k/SVG_animation/blob/master/output/kk.gif)
-
-# new animtion
-
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/2040fe6d/SVG%20animation/chrome_io.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/8bc2add0/SVG%20animation/github.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/8aa10eba/SVG%20animation/apple_watch.svg)
