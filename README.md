@@ -11,6 +11,7 @@ This repository is build for fun and art purpose
 ![alt tag](https://github.com/kusha-b-k/SVG_animation/blob/master/output/dd.gif)
 ![alt tag](https://github.com/kusha-b-k/SVG_animation/blob/master/output/ggs.gif)
 ![alt tag](https://github.com/kusha-b-k/SVG_animation/blob/master/output/kk.gif)
+![alt tag](https://github.com/kusha-b-k/SVG_animation/blob/master/output/fish.gif)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/2040fe6d/SVG%20animation/chrome_io.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/8bc2add0/SVG%20animation/github.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/8aa10eba/SVG%20animation/apple_watch.svg)
@@ -18,7 +19,6 @@ This repository is build for fun and art purpose
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/gamil.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/google.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/102915fd/SVG%20animation/tiger_anim.svg)
- ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/modi.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/apple%20inc.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/Target.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/912aa49a/SVG%20animation/suse.svg)
@@ -28,5 +28,4 @@ This repository is build for fun and art purpose
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/f19da5e3/SVG%20animation/bicycle.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/35ec4d51/SVG%20animation/MI7.svg)
  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/4219a750/SVG%20animation/youtubetv.svg)
-  ![alt tag](https://cdn.rawgit.com/kusha-b-k/SVG_animation/b9561eb7/SVG%20animation/kalilinux.svg)
   
